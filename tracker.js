@@ -1,5 +1,5 @@
 (() => {
-  const ENDPOINT = "https://n8n.skai-lifestyle.com/webhook/event";
+  const ENDPOINT = "https://n8n.skai-lifestyle.com/webhook/6r6785";
 
   function getVisitorId() {
     let id = localStorage.getItem("visitor_id");
